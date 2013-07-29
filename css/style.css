@@ -1,5 +1,5 @@
 .home{
-  background: url(../img/background1.jpg) no-repeat center center fixed; 
+  background: url(../img/background1.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .about{
-  background: url(../img/background2.jpg) no-repeat center center fixed; 
+  background: url(../img/background2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -98,6 +98,16 @@ ul.banner-navigation a:hover, .title:hover{
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
   margin-top: 5px;
+  display: block;
+}
+
+.footer-image{
+  -webkit-border-bottom-left-radius: 7px;
+  -webkit-border-bottom-right-radius: 7px;
+  -moz-border-radius-bottomleft: 7px;
+  -moz-border-radius-bottomright: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
   display: block;
 }
 
