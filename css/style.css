@@ -51,6 +51,22 @@ body, h1, h2, h3, h4, h5, h6, p{
   margin-top: 100px;
 }
 
+.map-indicator{
+  display: inline-block;
+  height: 13px;
+  width: 13px;
+  background-color: #FFF;
+  margin-right: 3px;
+}
+
+.hotel{
+  background-color: #4087ef;
+}
+
+.venue{
+  background-color: #db4434;
+}
+
 ul.banner-navigation{
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 22px;
